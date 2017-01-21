@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Projects{% if page.title %} | {{ page.title }}{% endif %}</title>
+    {% include  assets.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div class="page-content">{{ content }}</div>
+    <script type="text/javascript" src={{ "/js/project_processor.js" | relative_url }}></script>
+  </body>
+</html>
