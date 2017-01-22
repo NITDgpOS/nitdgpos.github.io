@@ -19,7 +19,6 @@ description: > # this means to ignore newlines until "baseurl:"
   An Open source organization maintained by the students of NIT Durgapur, India.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "nit-dgp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  NIT-dgp
 
 # Build settings
