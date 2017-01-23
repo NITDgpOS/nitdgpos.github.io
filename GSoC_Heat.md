@@ -7,21 +7,25 @@ permalink: gsoc_heat
 # **Timeline**
 ![image-title-here](/images/timeline.png)
 
-# **Contest Rules**
+# **Contest Rules and Guidelines**
 1. Stick to the timeline. We are very strict about timeline since GSoC is very strict at its timeline too and no requests for extension is entertained.
 2. You must have solved atleast one issue in the project you are applying for
 3. You can submit maximum of 2 proposals
 4. Follow the application template as provided
-5. You are free to discuss about the proposal and take feedback from the maintainers before submission. Make a google doc and give permissions to the specific maintainer of the project to comment on it and give feedback for your proposal. 
-6. Submit the final proposal in pdf format. No changes can be done to your proposal once submitted and you can't resubmit the same proposal. So be sure before you submit the final link.
-7. You can submit the links to the work done during the coding period in a blog post, gist or google doc.
+5. You are free to discuss about the proposal and take feedback from the maintainers before submission. Make a google doc and give permissions to the specific maintainer of the project to comment on it and give feedback for your proposal.
+6. Share the link of your google doc in our mailing list to make it easier to review it. Create a new thread with topic `GSoC Heat proposal by <your_name>`
+7. Submit the final proposal in pdf format. No changes can be done to your proposal once submitted and you can't resubmit the same proposal. So be sure before you submit the final link.
+8. You can submit the links to the work done during the coding period in a blog post, gist or google doc.
 
-# Application Template
-Find the Application template [at this link](https://github.com/NIT-dgp/Guidelines/wiki/Application-Template-for-%22The-GSoC-Heat%22)
+# **Proposal Template**
+Find the Proposal template [at this link](https://github.com/NIT-dgp/Guidelines/wiki/Application-Template-for-%22The-GSoC-Heat%22)
+
+# **Proposal Submission**
+Submit your proposals [in this google form](https://goo.gl/forms/GWr62rt9ejmZvp0n2)
 
 # **Ideas**
 
-# UIP
+# [UIP](https://github.com/NIT-dgp/UIP)
 ___
 <br/>
 
@@ -42,7 +46,7 @@ Delete wallpapers that get too old. These can be done in the following ways:
 Related Issues: [https://github.com/NIT-dgp/UIP/issues/120](https://github.com/NIT-dgp/UIP/issues/120)
 
 
-# cat-forum
+# [cat-forum](https://github.com/NIT-dgp/cat-forum)
 ___
 <br/>
 
@@ -55,7 +59,7 @@ We want users to get regular email notifications for threads and replies so that
 ## A full fledged test suite
 cat-forum really lacks a good test suite. We want to have a 100% test coverage for cat-forum. We are using [rspec](http://rspec.info/) for writing tests. Read the [rspec docs](http://rspec.info/documentation/) and start writing good tests. Refer to [NIT-dgp/cat-forum#39](https://github.com/NIT-dgp/cat-forum/issues/39) for details.
 
-# Festcms
+# [Festcms](https://github.com/NIT-dgp/festcms)
 ___
 <br/>
 
@@ -69,7 +73,7 @@ Currently django's default admin panel is used to enter data into the site. Howe
 Build a clean and simple theme for all views using Bootstrap only. Design proper 404 and 500 pages. Also style the admin panel according to the theme. Check issues [#64](https://github.com/NIT-dgp/festcms/issues/64) and [#62](https://github.com/NIT-dgp/festcms/issues/62).
 
 
-# contribute
+# [contribute](https://github.com/NIT-dgp/contribute)
 ___
 <br/>
 
@@ -84,7 +88,7 @@ ___
 [#16](https://github.com/NIT-dgp/contribute/pull/16) had setup vcr and rspec, however most of our methods are untested. [How to Stub External Services in Tests](https://robots.thoughtbot.com/how-to-stub-external-services-in-tests#) is a nice blog on this topic. You should also read documentation of [vcr](https://github.com/vcr/vcr), [rspec](https://github.com/rspec/rspec) and [webmock](https://github.com/bblimke/webmock).
 
 
-# Fearch
+# [Fearch](https://github.com/NIT-dgp/chrome-search-extension)
 ___
 <br/>
 
@@ -96,7 +100,7 @@ Issue is to inject js into an ftp page to add a "download all" button which auto
 
 Whenever user stops typing, automatically crawl first ftp server on the results page and get the link of the file that matches the user input and preview the link, even before the user presses search. Related Issue: [https://github.com/NIT-dgp/chrome-search-extension/issues/36](https://github.com/NIT-dgp/chrome-search-extension/issues/36)
 
-# manga
+# [manga](https://github.com/NIT-dgp/manga)
 ___
 <br/>
 
