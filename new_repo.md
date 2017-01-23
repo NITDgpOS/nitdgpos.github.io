@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Add Project
+permalink: add_project
 ---
 
 Students are welcome to add new repositories to our Organization. Fill out [this form](https://goo.gl/forms/qJ2wXrD7UlKc0V8V2) to add your repository.
