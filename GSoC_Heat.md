@@ -1,6 +1,7 @@
 ---
 layout: default
 title: GSoC Heat
+permalink: gsoc_heat
 ---
 
 # **Timeline**

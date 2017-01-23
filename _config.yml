@@ -34,4 +34,4 @@ exclude:
 sass:
   sass_dir: css
   style: compressed
-nav: ["gcoc_heat.md", "contributing.md", "new_repo.md"]
+nav: ["GSoC_Heat.md", "contributing.md", "new_repo.md"]
