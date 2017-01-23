@@ -12,7 +12,12 @@ permalink: gsoc_heat
 2. You must have solved atleast one issue in the project you are applying for
 3. You can submit maximum of 2 proposals
 4. Follow the application template as provided
-5. Submit the final proposal in pdf format. You are free to discuss about the proposal and take feedback from the maintainers before submission. No changes can be done to your proposal once submitted and you can't resubmit the same proposal. So be sure before you submit the final link.
+5. You are free to discuss about the proposal and take feedback from the maintainers before submission. Make a google doc and give permissions to the specific maintainer of the project to comment on it and give feedback for your proposal. 
+6. Submit the final proposal in pdf format. No changes can be done to your proposal once submitted and you can't resubmit the same proposal. So be sure before you submit the final link.
+7. You can submit the links to the work done during the coding period in a blog post, gist or google doc.
+
+# Application Template
+Find the Application template [at this link](https://github.com/NIT-dgp/Guidelines/wiki/Application-Template-for-%22The-GSoC-Heat%22)
 
 # **Ideas**
 
