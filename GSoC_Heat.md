@@ -94,7 +94,7 @@ ___
 
 ## Add Download all button to ftp sites
 
-Issue is to inject js into an ftp page to add a "download all" button which automatically downloads all links on the page. Related Issue: [https://github.com/NIT-dgp/chrome-search-extension/issues/61](https://github.com/NIT-dgp/chrome-search-extension/issues/36)
+Issue is to inject js into an ftp page to add a "download all" button which automatically downloads all links on the page. Related Issue: [https://github.com/NIT-dgp/chrome-search-extension/issues/61](https://github.com/NIT-dgp/chrome-search-extension/issues/61)
 
 ## Automatically preview download file:
 
