@@ -25,3 +25,4 @@ You can contact us in the places mentioned below
 2. [Mailing list](https://groups.google.com/forum/?hl=en#!forum/nitdopensource) for longer and topic specific discussions
 
 3. [Facebook Group](https://www.facebook.com/groups/NITDgpOS) **if you are an student of NIT Durgapur**. This will only be used for important announcements and notifications.
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
