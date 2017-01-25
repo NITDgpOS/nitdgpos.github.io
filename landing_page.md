@@ -24,4 +24,4 @@ You can contact us in the places mentioned below
 
 2. [Mailing list](https://groups.google.com/forum/?hl=en#!forum/nitdopensource) for longer and topic specific discussions
 
-3. [Facebook Group](https://www.facebook.com/groups/NITDgpOS) **if you are an student of NIT Durgapur**. This will only be used for important announcements and notifications.
+3. [Facebook Group](https://www.facebook.com/groups/NITDgpOS) **if you are a student of NIT Durgapur**. This will only be used for important announcements and notifications.
