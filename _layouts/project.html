@@ -1,13 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="{{ page.description }}" />
+    <meta name="project-title" content="{{ page.title }}" />
     <title>Projects{% if page.title %} | {{ page.title }}{% endif %}</title>
     {% include  assets.html %}
+    <link rel="stylesheet" href={{ "/css/project.css" | relative_url }} />
   </head>
   <body>
-    {% include header.html %}
-    <div class="page-content">{{ content }}</div>
+    <nav>
+      <div class="nav-wrapper blue">
+        <a href="/" class="brand-logo">NITDgpOS</a>
+        <a href="#" data-activates="mobile-nav" class="button-collapse">
+          <i class="fa fa-bars"></i>
+        </a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="https://github.com/nit-dgp/{{page.title}}">Get Involved!</a></li>
+        </ul>
+        <ul class="side-nav" id="mobile-nav">
+          <li><a href="https://github.com/nit-dgp/{{page.title}}">Get Involved!</a></li>
+        </ul>
+      </div>
+    </nav>
+    <div class="main-content center row valign-wrapper">
+      {% if page.logo %}
+        <div class="col s12 m4 valign">
+          <img src="{{ page.logo }}" class="logo"/>
+        </div>
+        <div class="col s12 m8 valign">
+          <h1 class="title"><a id="main-title">{{page.title}}</a><h1>
+          <h2 class="flow-text description black-text text-lighten-2">{{page.description}}<h2>
+        </div>
+      {% else %}
+        <div class="col s12">
+          <h1 class="title"><a id="main-title">{{page.title}}</a><h1>
+          <h2 class="flow-text description black-text text-lighten-2">{{page.description}}<h2>
+        </div>
+      {% endif %}
+    </div>
+    <hr class="container" />
+
+    {% if page.gallery %}
+      <div class="container gallery">
+        <h2 class="center title">Gallery</h2>
+        <div class="row cards-container noselect">
+          {% for image in page.gallery %}
+            <div class="col s12 m6 card-holder">
+              <div class="card hoverable">
+                <div class="card-image">
+                  <img data-caption="{{ image.title }}" class="materialboxed" src="{{ image.url }}">
+                  <span class="card-title">{{ image.title }}</span>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+      <hr class="container" />
+    {% endif %}
+
+    <div class="container page-content">{{ content }}</div>
+    <hr class="container" />
+
+    <div id="stats" class="center container">
+      <h1 class="heading">Hello there!</h1>
+      <h4>We are the contributors to <b>{{page.title}}</b>.</h4>
+      <div id="contributors" class="row"></div>
+
+      <hr />
+      <h3 class="title">Stats, stats everywhere!</h3>
+      <p class="flow-text"><i class="fa fa-code"></i> mostly in <b id="language"></b></p>
+      <p class="flow-text">
+        Help us <i class="fa fa-wrench"></i> <a id="issues-url">fix issues</a>.
+        We have <b id="issues-count"></b> <i class="fa fa-bug"></i> open issues right now!
+      </p>
+      <p class="flow-text">
+        We were forked <b id="forks-count"></b>
+        <i class="fa fa-code-fork"></i> times, in exact.</p>
+      <p class="flow-text">
+        <a href="https://gitter.im/NIT-dgp/General">Ping us</a>
+        <i class="fa fa-rss"></i> for more updates!
+      </p>
+      <p class="flow-text">
+        maintained by <a id="owner"></a> <i class="fa fa-user"></i>
+      </p>
+    </div>
+
+    <footer class="page-footer transparent">
+      <div class="container center">
+        <p class="grey-text license">LICENSED UNDER GNU AFFERO GENERAL PUBLIC LICENSE V3.0</p>
+        <p class="grey-text credits">
+          <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> using
+          <a href="https://jekyllrb.com/">jekyll</a>,
+          <a href="http://materializecss.com/">MaterializeCSS</a> and
+          <a href="https://jquery.com/">jQuery</a>
+        </p>
+      </div>
+      <div class="footer-copyright transparent">
+        <div class="grey-text container center">
+          <i class="fa fa-copyright"></i>
+          <b id="created"></b>-<b id="updated"></b> Copyright
+          <a href="/">NITDgpOS</a>
+        </div>
+      </div>
+    </footer>
+
     <script type="text/javascript" src={{ "/js/project_processor.js" | relative_url }}></script>
   </body>
 </html>
