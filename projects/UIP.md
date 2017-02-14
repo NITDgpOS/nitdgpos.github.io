@@ -3,7 +3,7 @@ layout: project
 title: UIP
 permalink: projects/UIP
 logo: "https://raw.githubusercontent.com/NIT-dgp/UIP-misc/master/artwork/UIP_logo_v4.png"
-description: A cross-platfrom desktop application for downloading and scheduling wallpapers.
+description: A cross-platform desktop application for downloading and scheduling wallpapers.
 gallery:
   - title : "on a Linux (Gtk based) desktop"
     url : "https://raw.githubusercontent.com/NIT-dgp/UIP-misc/master/examples/gnome_wallpaper.png"
