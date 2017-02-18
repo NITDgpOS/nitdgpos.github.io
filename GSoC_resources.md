@@ -73,6 +73,6 @@ All of us go through the same process of devouring the internet when we are writ
 * [Google Open Source Blog](https://opensource.googleblog.com/search/label/gsoc) - Blogs from students, mentors and organization administrators reflecting on Google Summer of Code
 * [Student and Mentor Manuals](https://developers.google.com/open-source/gsoc/resources/manual) - Great tips and FAQs for students and mentors interested in GSoC
 * [Google Summer of Code Archive](https://developers.google.com/open-source/gsoc/past-summers) - Archive of selected projects from GSoC 2005 to 2016.
-* [FLOSS Manuals - GSoCStudentGuide](http://write.flossmanuals.net/gsocstudentguide/what-is-google-summer-of-code/) - This is GOLD :blue_heart: :green_heart::purple_heart::yellow_heart:
+* [FLOSS Manuals - GSoCStudentGuide](http://write.flossmanuals.net/gsocstudentguide/what-is-google-summer-of-code/) - This is GOLD <3
 * [Google Summer of Code Do's and Don'ts](https://medium.com/@akshikawijesundara/google-summer-of-code-dos-and-do-not-s-896f05e29ac0#.vgh1cn1b6) - Tips and Advice for GSoC
 * [Github Search](https://github.com/search?p=1&q=gsoc&type=Repositories&utf8=%E2%9C%93) - Organizations using github repositories for GSoC.
