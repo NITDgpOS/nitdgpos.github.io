@@ -1,24 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>
-      {% if page.title %}
-        {{ site.title }} | {{ page.title }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </title>
-    {% include assets.html %}
-    <link rel="stylesheet" href={{ "/css/styles.css" | relative_url }} />
-  </head>
-  <body>
-    {% include header.html %}
-    <div class="center-align">
-      <h1 class="title">NIT DGP Open Source</h1>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>
+    {% if page.title %} {{ site.title }} | {{ page.title }} {% else %} {{ site.title }} {% endif %}
+  </title>
+  {% include assets.html %}
+  <link rel="stylesheet" href={{ "/css/styles.css" | relative_url }} />
+</head>
+
+<body>
+  {% include header.html %}
+  <main>
+    <div class="welcome">
+      <div class="center-align">
+        <h1 class="title">NIT DGP Open Source</h1>
+        <h2 class="description">{{site.description}}</h2>
+      </div>
     </div>
     <div class="page-content center-align">
       <div class="main">{{ content }}</div>
     </div>
-  </body>
+  </main>
+</body>
+
 </html>

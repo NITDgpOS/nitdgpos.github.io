@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Get Involved
 permalink: get_involved
 ---
@@ -22,7 +22,6 @@ Please help us follow the best practice to make it easy for the reviewer as well
   commit body
 
   Fixes #< issue_no >
-
   ```
   where **short log** is the area/filename where you make the change, **commit message** is the very brief description of the change made by you and any other additional details go into the **commit body**. The **Fixes #< issue_no >** is the issue you are working on.
 

@@ -1,9 +1,108 @@
 ---
 # Frontmatter
 ---
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Lato:300,400,700');
 
-.title {
-  padding: 5%;
-  font-size: 6.5em;
-  font-weight: lighter;
+html, body {
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+  display: flex;
+}
+
+.navbar {
+  .brand-logo {
+    padding: 0 10px;
+  }
+
+  ul li a {
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+}
+
+.welcome {
+  .title {
+    padding: 5% 5% 0% 5%;
+    font-size: 6.5em;
+    font-weight: lighter;
+    display: block;
+
+    &:after {
+      content: "";
+      width: 85%;
+      margin: auto;
+      height: 2px;
+      margin-top: 10px;
+      display: block;
+      background-color: darkslateblue;
+    }
+  }
+
+  .description {
+    font-size: 1.2em;
+    padding: 0px;
+  }
+}
+
+.page-content {
+  width: 70%;
+  margin: auto;
+  margin-bottom: 5%;
+
+  img {
+    display: block;
+    width: 75%;
+    padding: 2%;
+    margin: auto;
+  }
+
+  a {
+    color: limegreen;
+    font-weight: 700;
+    border-bottom: 2px solid transparent;
+    transition: all 0.5s ease;
+
+    &:hover {
+      border-bottom-color: limegreen;
+    }
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 8%;
+  }
+
+  p {
+    font-size: 22px;
+    display: inline-block;
+    margin-top: 10px;
+  }
+
+  pre {
+    background-color: black;
+    padding: 2%;
+    text-align: left;
+    border-radius: 5px;
+    box-shadow: 0px 3px 2px 0px rgba(0,0,0,0.5);
+
+    code {
+      font-family: 'Roboto Mono', monospace;
+      color: yellow;
+      font-size: 1.2rem;
+    }
+  }
+
+  ul, ol {
+    text-align: left;
+
+    li {
+      font-size: 22px;
+      width: 95%;
+      margin: auto;
+      margin-top: 10px;
+
+      p {
+        display: inline;
+      }
+    }
+  }
 }

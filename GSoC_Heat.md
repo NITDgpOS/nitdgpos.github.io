@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: GSoC Heat
 permalink: gsoc_heat
 ---

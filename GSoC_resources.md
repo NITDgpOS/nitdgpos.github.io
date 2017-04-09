@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: GSoC Resources
 permalink: gsoc_resources
 ---

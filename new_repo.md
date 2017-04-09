@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Add Project
+layout: home
+title: Add your Project
 permalink: add_project
 ---
 
