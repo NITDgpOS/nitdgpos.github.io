@@ -2,7 +2,14 @@
 # Frontmatter
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Lato:300,400,700');
+
+html, body {
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+  display: flex;
+  flex-direction: column;
+}
 
 hr {
   margin: 5% 0%;
@@ -49,28 +56,6 @@ nav {
 
   .col {
     padding: 1rem;
-  }
-}
-
-footer.page-footer {
-  padding-top: 0px;
-  margin-top: 5%;
-
-  .license {
-    text-transform: uppercase;
-    padding-top: 1%;
-    padding-bottom: 1%;
-    margin: 0%;
-    font-size: 1.4rem;
-  }
-
-  .credits {
-    margin: 0px;
-    font-size: 1.2rem;
-  }
-
-  .footer-copyright {
-    font-size: 1.2rem;
   }
 }
 

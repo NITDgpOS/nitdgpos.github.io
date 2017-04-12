@@ -9,20 +9,7 @@
     <link rel="stylesheet" href={{ "/css/project.css" | relative_url }} />
   </head>
   <body>
-    <nav>
-      <div class="nav-wrapper blue">
-        <a href="/" class="brand-logo">NITDgpOS</a>
-        <a href="#" data-activates="mobile-nav" class="button-collapse">
-          <i class="fa fa-bars"></i>
-        </a>
-        <ul class="right hide-on-med-and-down">
-          <li><a href="https://github.com/nit-dgp/{{page.title}}">Get Involved!</a></li>
-        </ul>
-        <ul class="side-nav" id="mobile-nav">
-          <li><a href="https://github.com/nit-dgp/{{page.title}}">Get Involved!</a></li>
-        </ul>
-      </div>
-    </nav>
+    {% include header.html %}
     <div class="main-content center row valign-wrapper">
       {% if page.logo %}
         <div class="col s12 m4 valign">
@@ -86,26 +73,7 @@
         maintained by <a id="owner"></a> <i class="fa fa-user"></i>
       </p>
     </div>
-
-    <footer class="page-footer transparent">
-      <div class="container center">
-        <p class="grey-text license">LICENSED UNDER GNU AFFERO GENERAL PUBLIC LICENSE V3.0</p>
-        <p class="grey-text credits">
-          <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> using
-          <a href="https://jekyllrb.com/">jekyll</a>,
-          <a href="http://materializecss.com/">MaterializeCSS</a> and
-          <a href="https://jquery.com/">jQuery</a>
-        </p>
-      </div>
-      <div class="footer-copyright transparent">
-        <div class="grey-text container center">
-          <i class="fa fa-copyright"></i>
-          <b id="created"></b>-<b id="updated"></b> Copyright
-          <a href="/">NITDgpOS</a>
-        </div>
-      </div>
-    </footer>
-
+    {% include footer.html %}
     <script type="text/javascript" src={{ "/js/project_processor.js" | relative_url }}></script>
   </body>
 </html>
