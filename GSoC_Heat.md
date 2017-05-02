@@ -106,3 +106,5 @@ ___
 
 ## Build GUI using Gtk
 GUI is a high priority requirement for manga. Check out [https://github.com/NIT-dgp/manga/issues/4](https://github.com/NIT-dgp/manga/issues/4) for more info.
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
