@@ -2,15 +2,15 @@
 layout: project
 title: UIP
 permalink: projects/UIP
-logo: "https://raw.githubusercontent.com/NIT-dgp/UIP-misc/master/artwork/UIP_logo_v4.png"
+logo: "https://raw.githubusercontent.com/NIT-dgp/Graphics/master/filePNG/UIP/UIP_logo_v4.png"
 description: A cross-platform desktop application for downloading and scheduling wallpapers.
 gallery:
   - title : "on a Linux (Gtk based) desktop"
-    url : "https://raw.githubusercontent.com/NIT-dgp/UIP-misc/master/examples/gnome_wallpaper.png"
+    url : "https://raw.githubusercontent.com/NIT-dgp/Graphics/master/misc/gnome_wallpaper.png"
   - title: "on a Mac (running OS X 10.4 and higher)"
-    url : "https://raw.githubusercontent.com/NIT-dgp/UIP-misc/master/examples/mac_wallpaper.png"
+    url : "https://raw.githubusercontent.com/NIT-dgp/Graphics/master/misc/mac_wallpaper.png"
   - title: "on a Windows desktop"
-    url : "https://raw.githubusercontent.com/NIT-dgp/UIP-misc/master/examples/win_wallpaper.png"
+    url : "https://raw.githubusercontent.com/NIT-dgp/Graphics/master/misc/win_wallpaper.png"
 ---
 
 **What is UIP?**
