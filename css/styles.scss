@@ -46,20 +46,21 @@ html, body {
 }
 
 .page-content {
-  width: 70%;
+//  width: 80%;
   margin: auto;
   margin-bottom: 5%;
 
   img {
     display: block;
-    width: 75%;
+    width: 95%;
+    height:100%;
     padding: 2%;
     margin: auto;
   }
 
   a {
     color: limegreen;
-    font-weight: 700;
+    font-weight: 500;
     border-bottom: 2px solid transparent;
     transition: all 0.5s ease;
 
@@ -73,7 +74,7 @@ html, body {
   }
 
   p {
-    font-size: 22px;
+    font-size: 3.2vh;
     display: inline-block;
     margin-top: 10px;
   }
@@ -88,7 +89,7 @@ html, body {
     code {
       font-family: 'Roboto Mono', monospace;
       color: yellow;
-      font-size: 1.2rem;
+      font-size: 3.2vh;
     }
   }
 
@@ -96,7 +97,7 @@ html, body {
     text-align: left;
 
     li {
-      font-size: 22px;
+      font-size: 3.2vh;
       width: 95%;
       margin: auto;
       margin-top: 10px;
@@ -109,4 +110,23 @@ html, body {
 }
 .navbar-fixed{
    z-index: 998 !important;
+}
+
+h1{
+  font-size: 9vh;
+}
+h2{
+  font-size: 8vh;
+}
+h3{
+  font-size: 7vh;
+}
+h4{
+  font-size: 6vh;
+}
+h5{
+  font-size: 5vh;
+}
+h6{
+  font-size: 4vh;
 }
