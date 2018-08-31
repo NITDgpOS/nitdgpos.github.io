@@ -1,6 +1,6 @@
 NIT DGP Open Source
 ===================
-made with :heart: via [GitHub Pages][1]
+Made with :heart: via [GitHub Pages][1]
 
 Curious how it works?
 ---------------------
