@@ -1,7 +1,7 @@
 (function($) {
   $(function() {
 
-    $('.my-btn').sideNav({
+    $('.menu-btn').sideNav({
       edge: 'left', // Choose the horizontal origin
       closeOnClick: true, // Closes side-nav on <a> clicks
       draggable: true // Choose whether you can drag to open on touch screens
