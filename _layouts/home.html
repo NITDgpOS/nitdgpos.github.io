@@ -6,6 +6,13 @@
   <title>
     {% if page.title %} {{ site.title }} | {{ page.title }} {% else %} {{ site.title }} {% endif %}
   </title>
+
+  <!-- SEO TAGS -->
+  <meta name="description" content="NIT-dgpOS is an Open Source Community started by some GSoC 2016 students of NIT Durgapur to spread the idea of Open Source among students and help them contribute to Open Source.">
+  <meta property="og:title" content="{% if page.title %} {{ site.title }} | {{ page.title }} {% else %} {{ site.title }} {% endif %}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="NIT-dgpOS is an Open Source Community started by some GSoC 2016 students of NIT Durgapur to spread the idea of Open Source among students and help them contribute to Open Source." />
+
   {% include assets.html %}
   <link rel="stylesheet" href={{ "/css/styles.css" | relative_url }} />
 </head>
