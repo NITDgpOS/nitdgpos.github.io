@@ -5,7 +5,7 @@ permalink: gsoc_heat
 ---
 
 # **Timeline**
-![image-title-here](/images/Heat18.png)
+![image-title-here](/images/Heat19.png)
 
 # **Contest Rules and Guidelines**
 1. Stick to the timeline. We are very strict about timeline since GSoC is very strict at its timeline too and no requests for extension is entertained.
@@ -20,11 +20,11 @@ permalink: gsoc_heat
 Find the Proposal template [at this link](https://github.com/NIT-dgp/Guidelines/wiki/Application-Template-for-%22The-GSoC-Heat%22)
 
 # **Proposal Submission**
-Submit your proposals [in this google form](https://goo.gl/forms/tPhy517ZUqRhHNPc2)
+Submit your proposals [in this google form](https://goo.gl/forms/oLqAgP0Ou94xdiTY2)
 
 # **Projects**
 
-Search through the list and find the project for your calling. After which, come ask us about it on [gitter.](https://gitter.im/NIT-dgp/General) 
+Search through the list and find the project for your calling. After which, come ask us about it on [gitter.](https://gitter.im/NIT-dgp/General)
 
 We will be sure to nerd you out with the info about the projects.
 
