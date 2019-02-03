@@ -28,52 +28,50 @@ Search through the list and find the project for your calling. After which, come
 
 We will be sure to nerd you out with the info about the projects.
 
-# [UIP](https://github.com/NITDgpOS/UIP)
+# [Audition-Management-System](https://github.com/JayjeetAtGithub/Audition-Management-System)
 
-This is the Star repo of NITDgpOS, its a library to customize your desktop wallpapers :)
+📒 An Audition Management System primarily for GLUG Auditions
 <br/>
 Language: Python
 <br/>
-More info: [UIP](https://nitdgpos.github.io/projects/UIP)
 
-# [Fearch](https://github.com/NITDgpOS/chrome-search-extension)
+# [Fearch](https://github.com/NITDgpos/fearch)
 
-The second (if not the first) biggest star of NITDgpOS. This is a chrome and firefox extension to search over FTP servers.
+The biggest star of NITDgpOS. This is a chrome extension where we can search music,video and books over ftp servers.
+Language: JavaScript
+
+# [freemex](https://github.com/lugnitdgp/freemex)
+
+Online stock market game
 <br/>
 Language: JavaScript
 
-# [PiZilla](https://github.com/NITDgpOS/PiZilla)
+# [freepl_main](https://github.com/lugnitdgp/freepl_main)
 
-Cheating is always possible ;) The program you can use to cheat in your lab exam. Sets a local server to share files.
+FREEPL is a online fantasy cricket game where the player gets to create a team according to the live matches going on around the world.
 <br/>
-Language: JavaScript
+Language: Javascript,CSS
 
-# [PlotIt](https://github.com/NITDgpOS/PlotIt)
+# [IntReview](https://github.com/arc9693/IntReview)
 
-Maths nerd much? This is a program used to visualize graphs.
-<br/>
-Language: Python
-
-# [SecureSnaps](https://github.com/NITDgpOS/SecureSnaps)
-
-Secure data storage and transfer is everythign! This is a repository you can use to encrypt your pics.
+An app that records various interview responses and publicise them.
 <br/>
 Language: Python
 
-# [MemeFinder](https://github.com/NITDgpOS/MemeFinder)
+# [Medium_Grabber](https://github.com/NITDgpoS/Medium_Grabber)
 
-Want any memes? This will help you out. The name says it all!
+This is an automated program that lets you grab the link of any article under any topic just by logging into your Google-medium account.
 <br/>
 Language: Python
 
-# [manga](https://github.com/NITDgpOS/manga)
+# [onelogger](https://github.com/realsdx/onelogger)
 
-This is the repo which you can use to download mangas and save them in your system in pdf format.
+An IP Logger
 <br/>
-Language: BASH, C, Python
+Language: Javascript
 
-# [MultiGameSet](https://github.com/NITDgpOS/MultiGameSet)
+# [StudentPortal](https://github.com/NIT-DGPortal/StudentPortal)
 
-This is a set of 2-player games you can play.
+A customised study portal for NIT Durgapur.
 <br/>
-Language: Java
+Language: Python
