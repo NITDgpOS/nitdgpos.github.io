@@ -1,7 +1,10 @@
 <div class="navbar-fixed">
   <nav class="blue navbar">
     <div class="row nav-wrapper">
-      <a href="{{ '/' | relative_url }}" class="brand-logo">{{ site.title | escape }}</a>
+      <a href="{{ '/' | relative_url }}" class="brand-logo">
+        <img src="{{ site.logo }}" alt="" height="40" style='vertical-align:middle;'>
+        <span>&nbsp;{{ site.title | escape }}</span>
+      </a>
       <a href="#" data-activates="mobile-demo" class="button-collapse menu-btn"><i class="fa fa-bars"></i></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         {% for page in site.pages %} {% if site.nav contains page.path %}

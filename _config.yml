@@ -34,3 +34,5 @@ sass:
   sass_dir: css
   style: compressed
 nav: ["GSoC_resources.md", "contributing.md", "new_repo.md", "Call_for_maintainers.md", "GSoC_Heat.md"]
+
+logo: "images/brand.png"
