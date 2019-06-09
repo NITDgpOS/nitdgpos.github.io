@@ -6,56 +6,16 @@ permalink: gsoc_resources
 
 All of us go through the same process of devouring the internet when we are writing our proposal for GSoC. This is an attempt to bookmark all those resources in one place.
 
-## This year Selected Proposals
+## This year selected proposals
+### GSoC 2019
 
-* [Avinash Aggarwal/SugarLabs](https://summerofcode.withgoogle.com/projects/#5993905961566208)
 * [Abhishek Singh/ESIP](https://summerofcode.withgoogle.com/projects/#4567128563253248)
 * [Mahesh Tudu @ FreeBSD](https://summerofcode.withgoogle.com/projects/#6555942194249728)
 * [Romit Kumar @ BRL-CAD](https://summerofcode.withgoogle.com/projects/#5042363104231424)
 * [Jayjeet Chakraborty @ CROSS](https://summerofcode.withgoogle.com/projects/#6075586542305280)
+* [Avinash Aggarwal/SugarLabs](https://summerofcode.withgoogle.com/projects/#5993905961566208)
 * [Ayan Banerjee @ UCSC Xena](https://summerofcode.withgoogle.com/projects/#5795682349219840)
 * [Sudipta Pandit @ The Honeynet Project](https://summerofcode.withgoogle.com/projects/#6189934577188864)
-
-## GSoC 2017 Ideas page
-
-
-* [Gnome](https://wiki.gnome.org/Outreach/SummerOfCode/2017/Ideas)
-
-* [libvirt - virtualization API](https://wiki.libvirt.org/page/Google_Summer_of_Code_Ideas)
-
-* [LibreOffice](https://wiki.documentfoundation.org/Development/GSoC)
-
-* [KDE](https://community.kde.org/GSoC/2017/Ideas)
-
-* [AppImage project](http://discourse.appimage.org/t/google-summer-of-code-2017/106)
-
-* [JBoss](https://developer.jboss.org/wiki/JBossCommunityGoogleSummerOfCode2017Ideas)
-
-* [CERN](https://ep-dep-sft.web.cern.ch/article/221195)
-
-* [Idris](https://github.com/idris-lang/Idris-dev/wiki/Google-Summer-of-Code-2017-ideas-&-plans)
-
-* [GNU](https://www.gnu.org/software/soc-projects/ideas-2017.html)
-
-* [BeagleBoard](http://elinux.org/BeagleBoard/GSoC/Ideas)
-
-* [Eclipse](https://wiki.eclipse.org/Google_Summer_of_Code_2017_Ideas)
-
-* [OSGeo](https://wiki.osgeo.org/wiki/Google_Summer_of_Code_2017_Ideas)
-
-* [redhenlab](http://www.redhenlab.org/summer-of-code/summer-of-code-2017---ideas-page)
-
-* [Ruby](https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List)
-
-* [PublicLab](https://publiclab.org/wiki/gsoc-ideas)
-
-* [Coala](http://projects.coala.io/)
-
-* [FOSSASIA](http://labs.fossasia.org/ideas.html)
-
-* [OpenSUSE](http://101.opensuse.org/)
-
-* [SciRuby](https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2017-Ideas)
 
 ## Previous years selected proposals
 
