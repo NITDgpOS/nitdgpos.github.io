@@ -6,6 +6,8 @@ permalink: gsoc_resources
 
 All of us go through the same process of devouring the internet when we are writing our proposal for GSoC. This is an attempt to bookmark all those resources in one place.
 
+Please fill this [GSoC accepted proposal form](https://forms.gle/xaoXmpEdeAJ9c9Fn9), so that it could help other potential GSoC candidates to write a more competent proposal.
+
 ## This year selected proposals
 ### GSoC 2019
 
