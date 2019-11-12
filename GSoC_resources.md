@@ -8,8 +8,7 @@ All of us go through the same process of devouring the internet when we are writ
 
 Please fill this [GSoC accepted proposal form](https://forms.gle/xaoXmpEdeAJ9c9Fn9), so that it could help other potential GSoC candidates to write a more competent proposal.
 
-## This year selected proposals
-### GSoC 2019
+## GSoC 2019
 
 * [Abhishek Singh/ESIP](https://summerofcode.withgoogle.com/projects/#4567128563253248)
 * [Mahesh Tudu @ FreeBSD](https://summerofcode.withgoogle.com/projects/#6555942194249728)
@@ -18,6 +17,8 @@ Please fill this [GSoC accepted proposal form](https://forms.gle/xaoXmpEdeAJ9c9F
 * [Avinash Aggarwal/SugarLabs](https://summerofcode.withgoogle.com/projects/#5993905961566208)
 * [Ayan Banerjee @ UCSC Xena](https://summerofcode.withgoogle.com/projects/#5795682349219840)
 * [Sudipta Pandit @ The Honeynet Project](https://summerofcode.withgoogle.com/projects/#6189934577188864)
+
+[Check GSoC Google Sheets](https://docs.google.com/spreadsheets/d/1n3bqanFoBcSsrBtjvpVW_NMgyf3sOUDxNAchwM-t4zs/edit?usp=sharing)
 
 ## Previous years selected proposals
 
@@ -32,7 +33,7 @@ Please fill this [GSoC accepted proposal form](https://forms.gle/xaoXmpEdeAJ9c9F
 
 #### GSoc 2017
 
-* Naveen
+* [Naveen Kumar Sangi](https://summerofcode.withgoogle.com/archive/2017/projects/4690491102724096/)
 * Aniq
 * Compro
 * Deepjyoti
@@ -41,7 +42,7 @@ Please fill this [GSoC accepted proposal form](https://forms.gle/xaoXmpEdeAJ9c9F
 
 * [sonalkr132/rubygems.org](https://gist.github.com/sonalkr132/148875c61360e3349687ff05df04db2d)
 * [ananyo2012/publiclab](https://publiclab.org/notes/ananyo2012/03-25-2016/expanded-q-a-system-for-publiclab-org)
-* Vamsi
+* [Vamsi](https://summerofcode.withgoogle.com/archive/2016/projects/5194537727164416/)
 * Bhishakh
 * Priya
 * Sparsh
