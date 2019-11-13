@@ -8,6 +8,8 @@ All of us go through the same process of devouring the internet when we are writ
 
 Please fill this [GSoC accepted proposal form](https://forms.gle/xaoXmpEdeAJ9c9Fn9), so that it could help other potential GSoC candidates to write a more competent proposal.
 
+[Check GSoC Google Sheets](https://docs.google.com/spreadsheets/d/1n3bqanFoBcSsrBtjvpVW_NMgyf3sOUDxNAchwM-t4zs/edit?usp=sharing)
+
 ## GSoC 2019
 
 * [Abhishek Singh/ESIP](https://summerofcode.withgoogle.com/projects/#4567128563253248)
@@ -17,10 +19,6 @@ Please fill this [GSoC accepted proposal form](https://forms.gle/xaoXmpEdeAJ9c9F
 * [Avinash Aggarwal/SugarLabs](https://summerofcode.withgoogle.com/projects/#5993905961566208)
 * [Ayan Banerjee @ UCSC Xena](https://summerofcode.withgoogle.com/projects/#5795682349219840)
 * [Sudipta Pandit @ The Honeynet Project](https://summerofcode.withgoogle.com/projects/#6189934577188864)
-
-[Check GSoC Google Sheets](https://docs.google.com/spreadsheets/d/1n3bqanFoBcSsrBtjvpVW_NMgyf3sOUDxNAchwM-t4zs/edit?usp=sharing)
-
-## Previous years selected proposals
 
 #### GSoc 2018
 
