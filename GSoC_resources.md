@@ -6,67 +6,64 @@ permalink: gsoc_resources
 
 All of us go through the same process of devouring the internet when we are writing our proposal for GSoC. This is an attempt to bookmark all those resources in one place.
 
-## GSoC 2017 Ideas page
+Please fill this [GSoC accepted proposal form](https://forms.gle/xaoXmpEdeAJ9c9Fn9), so that it could help other potential GSoC candidates to write a more competent proposal.
 
+[Check GSoC Google Sheets](https://docs.google.com/spreadsheets/d/1n3bqanFoBcSsrBtjvpVW_NMgyf3sOUDxNAchwM-t4zs/edit?usp=sharing)
 
-* [Gnome](https://wiki.gnome.org/Outreach/SummerOfCode/2017/Ideas)
+## GSoC 2019
 
-* [libvirt - virtualization API](https://wiki.libvirt.org/page/Google_Summer_of_Code_Ideas)
+* [Abhishek Singh/ESIP](https://summerofcode.withgoogle.com/projects/#4567128563253248)
+* [Mahesh Tudu @ FreeBSD](https://summerofcode.withgoogle.com/projects/#6555942194249728)
+* [Romit Kumar @ BRL-CAD](https://summerofcode.withgoogle.com/projects/#5042363104231424)
+* [Jayjeet Chakraborty @ CROSS](https://summerofcode.withgoogle.com/projects/#6075586542305280)
+* [Avinash Aggarwal/SugarLabs](https://summerofcode.withgoogle.com/projects/#5993905961566208)
+* [Ayan Banerjee @ UCSC Xena](https://summerofcode.withgoogle.com/projects/#5795682349219840)
+* [Sudipta Pandit @ The Honeynet Project](https://summerofcode.withgoogle.com/projects/#6189934577188864)
 
-* [LibreOffice](https://wiki.documentfoundation.org/Development/GSoC)
+#### GSoc 2018
 
-* [KDE](https://community.kde.org/GSoC/2017/Ideas)
+* [Ankan Poddar 2nd year CS/CROSS](https://summerofcode.withgoogle.com/archive/2018/projects/5223266494971904/)
+* [Anirban Banik/PocketBeagle](https://summerofcode.withgoogle.com/archive/2018/projects/5031706255949824/)
+* Sudhanshu Saurav
+* [Lokesh Nandanwar/So-Sy Labs](https://summerofcode.withgoogle.com/archive/2018/projects/4726926518255616/)
+* [Akshat Garg/FOSSASIA](https://summerofcode.withgoogle.com/archive/2018/projects/4537155267330048/)
+* [Hrishav Mukherjee/Boston University](https://summerofcode.withgoogle.com/archive/2018/projects/5687777542799360/)
 
-* [AppImage project](http://discourse.appimage.org/t/google-summer-of-code-2017/106)
+#### GSoc 2017
 
-* [JBoss](https://developer.jboss.org/wiki/JBossCommunityGoogleSummerOfCode2017Ideas)
+* [Naveen Kumar Sangi](https://summerofcode.withgoogle.com/archive/2017/projects/4690491102724096/)
+* Aniq
+* Compro
+* Deepjyoti
 
-* [CERN](https://ep-dep-sft.web.cern.ch/article/221195)
+#### GSoC 2016
 
-* [Idris](https://github.com/idris-lang/Idris-dev/wiki/Google-Summer-of-Code-2017-ideas-&-plans)
+* [sonalkr132/rubygems.org](https://gist.github.com/sonalkr132/148875c61360e3349687ff05df04db2d)
+* [ananyo2012/publiclab](https://publiclab.org/notes/ananyo2012/03-25-2016/expanded-q-a-system-for-publiclab-org)
+* [Vamsi](https://summerofcode.withgoogle.com/archive/2016/projects/5194537727164416/)
+* Bhishakh
+* Priya
+* Sparsh
+* Aditya Prakash
+* Abhay
+* Rajdeep Kaur
+* Arpit
 
-* [GNU](https://www.gnu.org/software/soc-projects/ideas-2017.html)
+#### GSoC 2015
 
-* [BeagleBoard](http://elinux.org/BeagleBoard/GSoC/Ideas)
-
-* [Eclipse](https://wiki.eclipse.org/Google_Summer_of_Code_2017_Ideas)
-
-* [OSGeo](https://wiki.osgeo.org/wiki/Google_Summer_of_Code_2017_Ideas)
-
-* [redhenlab](http://www.redhenlab.org/summer-of-code/summer-of-code-2017---ideas-page)
-
-* [Ruby](https://github.com/rubygsoc/rubygsoc/wiki/Ideas-List)
-
-* [PublicLab](https://publiclab.org/wiki/gsoc-ideas)
-
-* [Coala](http://projects.coala.io/)
-
-* [FOSSASIA](http://labs.fossasia.org/ideas.html)
-
-* [OpenSUSE](http://101.opensuse.org/)
-
-* [SciRuby](https://github.com/SciRuby/sciruby/wiki/Google-Summer-of-Code-2017-Ideas)
-
-## Previous years selected proposals
-
-#### GSoC 2013
-
-* [Axilleas/Gitlab](https://fedoraproject.org/wiki/GSOC_2013/Student_Application_Axilleas/Gitlab%28463%29)
-* [Sarupbanskota/Design Hub](https://fedoraproject.org/wiki/GSOC_2013/Student_Application_Sarupbanskota/Design_Hub(461))
+* [sonalkr132/GlitterGallery](https://fedoraproject.org/wiki/GSOC_2015/Student_Application_sonalkr132)
 
 #### GSoC 2014
 
 * [rohitpaulk/GlitterGallery](https://fedoraproject.org/wiki/GSOC_2014/Student_Application_rohitpaulk/GlitterGallery)
 * [sarupbanskota/GlitterGallery](https://fedoraproject.org/wiki/GSOC_2014/Student_Application_sarupbanskota/GlitterGallery)
 
-#### GSoC 2015
+#### GSoC 2013
 
-* [sonalkr132/GlitterGallery](https://fedoraproject.org/wiki/GSOC_2015/Student_Application_sonalkr132)
+* [Axilleas/Gitlab](https://fedoraproject.org/wiki/GSOC_2013/Student_Application_Axilleas/Gitlab%28463%29)
+* [Sarupbanskota/Design Hub](https://fedoraproject.org/wiki/GSOC_2013/Student_Application_Sarupbanskota/Design_Hub(461))
 
-#### GSoC 2016
 
-* [sonalkr132/rubygems.org](https://gist.github.com/sonalkr132/148875c61360e3349687ff05df04db2d)
-* [ananyo2012/publiclab](https://publiclab.org/notes/ananyo2012/03-25-2016/expanded-q-a-system-for-publiclab-org)
 
 ## Blogs and Manuals
 

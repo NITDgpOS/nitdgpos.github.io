@@ -3,7 +3,7 @@ layout: home
 title: Get Involved
 permalink: get_involved
 ---
-# Contributing to [NIT-dgp](https://github.com/NIT-dgp)
+# Contributing to [NIT-dgp OS](https://github.com/NITDgpOS)
 These are the overall guidelines for contributing to any Project in NIT-dgp. Please read this before you start contributing to any repo of our organization
 
 ## Code practices
